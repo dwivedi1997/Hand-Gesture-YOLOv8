@@ -1,0 +1,6 @@
+test: /content/drive/MyDrive/Deep Learning/Object Detection/Hand-Gesture-Recognition-6//test/images
+train: /content/drive/MyDrive/Deep Learning/Object Detection/Hand-Gesture-Recognition-6/train/images
+val: /content/drive/MyDrive/Deep Learning/Object Detection/Hand-Gesture-Recognition-6/valid/images
+
+nc: 5
+names: ['five','four','one','three','two']
