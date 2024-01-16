@@ -18,5 +18,5 @@ YOLOv8 is the latest version of YOLO by Ultralytics. As a cutting-edge, state-of
 All the codes associated with the YOLOv8 training can be found in the google colab notebook <a href='https://colab.research.google.com/drive/1SvcNtVWY9283iOsB2sHmpgiOgR0SEZtJ?authuser=1#scrollTo=RZpNfszhQIEe'> Hand gesture </a><br>
 
 The following is the anotate image of the training dataset:<br>
-![Uploading image.png…]()
+<img src='https://github.com/dwivedi1997/Hand-Gesture-YOLOv8/blob/main/runs/detect/train/train_batch1.jpg'></img>
 
