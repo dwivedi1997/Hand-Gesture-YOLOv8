@@ -1,7 +1,7 @@
 # Hand Gesture Detection - YOLOV8
 Please consider following this project's author, Aniket Dwivedi, and consider starring the project to show your ❤️ and support.
 
-# Dataets
+# Datasets
 Roboflow API was used to download the dataset: <br>
 
 !pip install roboflow<br>
