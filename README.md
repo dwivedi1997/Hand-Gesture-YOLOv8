@@ -20,3 +20,6 @@ All the codes associated with the YOLOv8 training can be found in the google col
 The following is the anotate image of the training dataset:<br>
 <img src='https://github.com/dwivedi1997/Hand-Gesture-YOLOv8/blob/main/runs/detect/train/train_batch1.jpg'></img>
 
+# Inference
+<img src='https://github.com/dwivedi1997/Hand-Gesture-YOLOv8/blob/main/runs/detect/train/results.png'></img>
+
